@@ -10,8 +10,8 @@ class CAritmetica
 	{
 	int dato1, dato2, resultado;
 	
-	dato1 = 20;
-	dato2 = 10;
+	dato1 = 5;
+	dato2 = 4;
 	
 	//Suma
 	resultado = dato1 + dato2;
